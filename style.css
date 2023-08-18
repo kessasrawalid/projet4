@@ -1,0 +1,37 @@
+#boxext{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(201, 68, 15);
+}
+#boxint{
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(240, 237, 233);
+    text-align: center;
+}
+#time{
+    width: 350px;
+    height: 150px;
+    font-size: 50px;
+    font-family: 'Saira Stencil One', cursive;
+    line-height: 200px;
+    
+}
+#date{
+    height: 50px;
+    background: aliceblue;
+    font-size: 30px;
+    font-family: 'Saira Stencil One', cursive;
+}
+
+#setcolor{
+    margin-top: 20px;
+}
